@@ -1,0 +1,52 @@
+---
+---
+
+# {.tabset}
+
+## En
+ 
+ <h1> The Brains </h1>
+ <div id="sub"> Our Team combines creative,technical, and strategic talents. Meet us! </div>
+ 
+<p>
+
+![Prof. Dr. Frank Klawonn<br> Mathematician,Computer scientist, Professor and Managin Director<br>
+at Ostfalia - University of Applied Sciences Wolfenbüttel<br> 
+E-Mail: f.klawonn@ostfalia.de](img/klawonn.png)
+
+![Natasza Karolina Szczypien<br>Research Fellow at Ostfalia - University of Applied Sciences
+Wolfenbüttel<br> E-Mail: na.szczypien@ostfalia.de
+](img/Natasza Karolina Szczypien.png)
+
+![Nefissa Khedher <br>Student at Ostfalia - University of Applied Sciences
+Wolfenbüttel<br> E-Mail: n.khedher@ostfalia.de
+](img/Nefissa.png)
+
+![Julia Illgen <br> Student at Ostfalia - University of Applied Sciences
+Wolfenbüttel<br> E-Mail: Julia@ostfalia.de
+](img/Julia.png)
+
+</p>
+
+## De
+
+ <h1> Die Gehirne </h1>
+ <div id="sub"> Unser Team vereint kreative, technische und strategische Talente. Treffen Sie uns!! </div>
+ 
+![Prof. Dr. Frank Klawonn<br> Mathematician,Computer scientist, Professor and Managin Director<br>
+at Ostfalia - University of Applied Sciences Wolfenbüttel<br> 
+E-Mail: f.klawonn@ostfalia.de](img/klawonn.png)
+
+
+![Natasza Karolina Szczypien<br>Research Fellow at Ostfalia - University of Applied Sciences
+Wolfenbüttel<br> E-Mail: na.szczypien@ostfalia.de
+](img/Natasza Karolina Szczypien.png)
+
+
+![Nefissa Khedher <br>Student at Ostfalia - University of Applied Sciences
+Wolfenbüttel<br> E-Mail: n.khedher@ostfalia.de
+](img/Nefissa.png)
+
+![Julia Nachname <br> Student at Ostfalia - University of Applied Sciences
+Wolfenbüttel<br> E-Mail: Julia@ostfalia.de
+](img/Julia.png)
